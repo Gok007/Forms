@@ -7,7 +7,7 @@ namespace FirstApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hi gokul");
+            Console.WriteLine("Hi gokulkrishnan");
         }
     }
 }
