@@ -6,6 +6,9 @@ namespace FirstApplication
     {
         static void Main(string[] args)
         {
+            int a, b;
+            a = 10;
+            b = 20;
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hi gokulkrishnan");
         }
